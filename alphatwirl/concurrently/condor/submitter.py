@@ -45,6 +45,7 @@ DEFAULT_JOB_DESC_DICT = collections.OrderedDict([
     ('universe', 'vanilla'),
     ('notification', 'Error'),
     ('getenv', 'True'),
+    ('Requirements', '(OpSysAndVer == "CentOS7")'),
 ])
 
 ##__________________________________________________________________||
